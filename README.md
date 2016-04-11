@@ -10,6 +10,8 @@ real-time analytics.
 
 ## Using this Image
 
+this is a forked version for my own test purpuses
+
 ### Running the container
 
 The InfluxDB image exposes a shared volume under
